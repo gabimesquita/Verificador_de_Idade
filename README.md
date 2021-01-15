@@ -1,2 +1,5 @@
-# Verificador_de_Idade
- Verificador de idade em HTML, CSS e JS
+# Verificador de Idade 🧒🧔👩🧓
+
+<p>Site verificador de idade em HTML, CSS e JavaScript.</p>
+
+<img src="idade.png">
